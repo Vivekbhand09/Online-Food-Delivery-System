@@ -12,8 +12,10 @@
 
 ## 📖 **About the Project**
 
-🍽 **Food Delivery Website** is a **full-stack web application** that allows users to **browse food items, add to cart, and place orders with secure online payment via Razorpay**.  
-It also includes an **Admin Panel** to manage food items, users, and orders.  
+🍽 **Food Delivery Website** is a **Full-Stack Web Application** built using **Spring Boot (Backend)** and **React (Frontend)**.  
+It allows users to **browse food items**, **add them to the cart**, and **place orders with secure online payments via Razorpay**.  
+It also includes an **Admin Panel** to **manage food items**, **users**, and **orders** efficiently.
+
 
 Built with:  
 ✅ **Spring Boot** for backend  
