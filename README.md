@@ -89,36 +89,47 @@ Built with:
 
 ## 📸 **Screenshots**
 
+
+### 👤 **User Authentication (Register & Signup)**
+![Sign Up](Screenshot/Signup.png)
+![Sign In](Screenshot/Signin.png)  
+
+
 ### 🏠 **Homepage**
 ![Homepage](Screenshot/Homepage.png)
 
-### 🍽 **Explore Tab & Menu**
+### 🍽 **Explore Tab **
 ![Explore Tab](Screenshot/Exploretab.png)  
+
+
+### 🍽 ** Menu**
 ![Menu](Screenshot/Menu.png)
 
-### 🥗 **Food Listing & Food Card**
+### 🥗 **Food Card**
 ![Food Card](Screenshot/Foodcard.png)  
-![List Food](Screenshot/Listfood.png)
+
 
 ### 🛒 **Shopping Cart**
 ![Shopping Cart](Screenshot/Shoppingcart.png)
 
-### 👤 **User Authentication**
-![Sign In](Screenshot/Signin.png)  
-![Sign Up](Screenshot/Signup.png)
 
-### 📦 **Orders & Billing**
-![Orders](Screenshot/Orders.png)  
-![Orders Page](Screenshot/Orderspage.png)  
+### 📦 ** Billing Address**
 ![Billing Address](Screenshot/Billingaddress.png)
 
 ### 💳 **Payment Gateway**
 ![Payment](Screenshot/Payment.png)
 
-### 📞 **Contact Us**
-![Contact Us](Screenshot/Contactus.png)
+
+### 📦 **Orders **
+![Orders Page](Screenshot/Orderspage.png)  
+
+
 
 ### 🛠 **Admin Panel**
+ ➕ **Add Food**
 ![Add Food](Screenshot/Addfood.png)
-
+ 📦 **Food Listing**
+![List Food](Screenshot/Listfood.png)
+ 🛒 **All Orders**
+![Orders](Screenshot/Orders.png)  
 
