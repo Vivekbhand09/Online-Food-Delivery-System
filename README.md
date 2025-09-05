@@ -85,3 +85,40 @@ Built with:
 
 ✔ This ensures a **safe and smooth payment experience** for users.
 
+---
+
+## 📸 **Screenshots**
+
+### 🏠 **Homepage**
+![Homepage](Screenshot/Homepage.png)
+
+### 🍽 **Explore Tab & Menu**
+![Explore Tab](Screenshot/Exploretab.png)  
+![Menu](Screenshot/Menu.png)
+
+### 🥗 **Food Listing & Food Card**
+![Food Card](Screenshot/Foodcard.png)  
+![List Food](Screenshot/Listfood.png)
+
+### 🛒 **Shopping Cart**
+![Shopping Cart](Screenshot/Shoppingcart.png)
+
+### 👤 **User Authentication**
+![Sign In](Screenshot/Signin.png)  
+![Sign Up](Screenshot/Signup.png)
+
+### 📦 **Orders & Billing**
+![Orders](Screenshot/Orders.png)  
+![Orders Page](Screenshot/Orderspage.png)  
+![Billing Address](Screenshot/Billingaddress.png)
+
+### 💳 **Payment Gateway**
+![Payment](Screenshot/Payment.png)
+
+### 📞 **Contact Us**
+![Contact Us](Screenshot/Contactus.png)
+
+### 🛠 **Admin Panel**
+![Add Food](Screenshot/Addfood.png)
+
+
